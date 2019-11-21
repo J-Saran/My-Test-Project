@@ -3,8 +3,8 @@
 My website created today.
 
 ## Member
--john
--ann
+- John
+- Ann
 
 ## Features
 
